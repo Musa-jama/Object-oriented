@@ -82,7 +82,6 @@ class ProductProperties {
   
 // 15% discount
 
-
   ProductProperties.applyDiscount(myStore.inventory, 0.15);
   
 // Total value after discount
