@@ -75,6 +75,7 @@ class ProductProperties {
   myStore.addProduct(milk);
   myStore.addProduct(coffee);
   
+  
 // Total value before discount  
 
   console.log("Total Inventory Value (Before Discount): $" + myStore.getInventoryValue().toFixed(2));
