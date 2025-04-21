@@ -84,7 +84,7 @@ class ProductProperties {
 
   ProductProperties.applyDiscount(myStore.inventory, 0.15);
   
-// Total value after discount
+// Total price after discount
 
   console.log("Total Inventory Value (After 15% Discount): $" + myStore.getInventoryValue().toFixed(2));
   
