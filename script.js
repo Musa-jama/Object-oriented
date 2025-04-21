@@ -74,13 +74,14 @@ class ProductProperties {
   myStore.addProduct(orangeJuice);
   myStore.addProduct(milk);
   myStore.addProduct(coffee);
-  
+
   
 // Total value before discount  
 
   console.log("Total Inventory Value (Before Discount): $" + myStore.getInventoryValue().toFixed(2));
   
 // 15% discount
+
 
   ProductProperties.applyDiscount(myStore.inventory, 0.15);
   
