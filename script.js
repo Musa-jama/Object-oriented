@@ -1,4 +1,5 @@
 // ProductProperties
+
 class ProductProperties {
     constructor(name, price, quantity) {
       this.name = name;
