@@ -22,6 +22,7 @@ class ProductProperties {
     }
   }
   
+  
 // PerishableProductProperties
 
   class PerishableProductProperties extends ProductProperties {
