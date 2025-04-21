@@ -37,6 +37,7 @@ class ProductProperties {
   
 // store class
 
+
   class Store {
     constructor() {
       this.inventory = [];
