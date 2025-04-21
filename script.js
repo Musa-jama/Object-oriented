@@ -58,8 +58,7 @@ class ProductProperties {
 // store instance
 
   const myStore = new Store();
-  
-  
+    
 // products  
 
   const apple = new ProductProperties("Apple", 0.5, 100);
