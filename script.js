@@ -55,7 +55,7 @@ class ProductProperties {
     }
   }
   
-// store instance
+// create store instance
 
   const myStore = new Store();
     
